@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 I am a Full Stack Developer (Flutter & MERN ) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m a Third Year CSE Student in IIIT SONEPAT and contributing to frontend and backend for building web and android applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Various Techstack.
+
+- : telescope: Mad Developer, who wants to learn Every Techstack.
 
 - :zap: In my free time, I solve problems on leetcode and enjoy gaming !.
 
