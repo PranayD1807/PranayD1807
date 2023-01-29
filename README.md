@@ -47,7 +47,7 @@ I am a Full Stack Developer (Flutter & MERN ) <img src="https://media.giphy.com/
 
 - :seedling: Exploring Various Techstack.
 
-- : telescope: Mad Developer, who wants to learn Every Techstack.
+- :telescope: Mad Developer, who wants to learn Every Techstack.
 
 - :zap: In my free time, I solve problems on leetcode and enjoy gaming !.
 
