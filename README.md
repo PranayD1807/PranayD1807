@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/pranay-dhongade-8bb91a202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/pnay_1807/">
+  <a href="https://www.instagram.com/pranay.d_mellow/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/Pranay_D1807">
