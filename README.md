@@ -78,6 +78,6 @@ I am a Full Stack Developer (Flutter & MERN ) <img src="https://media.giphy.com/
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PranayD1807&theme=vue" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranayD1807&layout=compact"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PranayD1807&layout=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PranayD1807&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PranayD1807&show_icons=true&theme=dark"/>
