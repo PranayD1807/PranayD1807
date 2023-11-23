@@ -74,10 +74,8 @@ I am a Full Stack Developer (Flutter & MERN ) <img src="https://media.giphy.com/
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PranayD1807&theme=dark&background=000000)](https://git.io/streak-stats)
+![PranayD1807's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranayD1807&theme=dracula&hide_border=true)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=PranayD1807&theme=vue" width="100%">
+![PranayD1807's Stats](https://github-readme-stats.vercel.app/api?username=PranayD1807&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PranayD1807&layout=compact"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PranayD1807&show_icons=true&theme=dark"/>
+![PranayD1807's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayD1807&theme=dracula&show_icons=true&hide_border=true&layout=compact)
