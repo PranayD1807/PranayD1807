@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer (Flutter & MERN ) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a Third Year CSE Student in IIIT SONEPAT and contributing to frontend and backend for building web and android applications.
+- :telescope: I’m a B.Tech Graduate from IIIT SONEPAT and contributing to frontend and backend for building web and android applications.
 
 - :seedling: Exploring Various Techstack.
 
@@ -74,8 +74,14 @@ I am a Full Stack Developer (Flutter & MERN ) <img src="https://media.giphy.com/
 </div>
 
 ### :fire: My Stats :
+
+<img src="https://myreadme.vercel.app/api/embed/PranayD1807?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  
+![PranayD1807's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayD1807&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+<img src="https://github-profile-trophy.vercel.app/?username=PranayD1807&theme=juicyfresh&no-bg=true" />
+
 ![PranayD1807's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranayD1807&theme=dracula&hide_border=true)
 
 ![PranayD1807's Stats](https://github-readme-stats.vercel.app/api?username=PranayD1807&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![PranayD1807's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayD1807&theme=dracula&show_icons=true&hide_border=true&layout=compact)
