@@ -83,5 +83,5 @@ I am a Full Stack Developer (Flutter & MERN ) <img src="https://media.giphy.com/
 
 ![PranayD1807's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranayD1807&theme=dracula&hide_border=true)
 
-![PranayD1807's Stats](https://github-readme-stats.vercel.app/api?username=PranayD1807&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
+![PranayD1807's Stats](https://github-readme-stats-xi-pink.vercel.app/api?username=PranayD1807&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
 
