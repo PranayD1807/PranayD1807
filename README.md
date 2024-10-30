@@ -2,7 +2,14 @@
 
 # 💫 About Me:
 
-🚀 Passionate about building seamless, user-focused applications <br>📱 Experienced in mobile app development with Flutter and MERN stack <br>💡 Skilled in integrating real-time messaging, AI chatbots, and secure systems <br>🌐 Creator of "Mooovies" — a comprehensive movie insights platform <br>🌱 Constantly exploring advanced database design and backend optimizations <br>💬 Ask me about app development, Firebase, or Dart <br>⚡ Fun fact: I can code, debug, and game—all in one sitting!
+🚀 Passionate about building seamless, user-focused applications  
+📱 Experienced in mobile app development with Flutter and MERN stack  
+💡 Skilled in integrating real-time messaging, AI chatbots, and secure systems  
+🌐 Creator of [Mooovies](https://mooovies-six.vercel.app/) — a comprehensive movie insights platform  
+🌐 Check out my portfolio: [Portfolio](https://portfolio-2-0-chi-woad.vercel.app/)  
+🌱 Constantly exploring advanced database design and backend optimizations  
+💬 Ask me about app development, Firebase, or Dart  
+⚡ Fun fact: I can code, debug, and game—all in one sitting!
 
 ## 🌐 Socials:
 
