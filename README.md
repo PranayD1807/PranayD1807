@@ -58,7 +58,7 @@
 
 ![](https://github-readme-stats-xi-pink.vercel.app/api?username=PranayD1807&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PranayD1807&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayD1807&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=PranayD1807&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
