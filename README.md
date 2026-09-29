@@ -62,7 +62,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=PranayD1807&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.devomb.com/?username=PranayD1807&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
@@ -70,7 +70,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=PranayD1807&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=PranayD1807&theme=vue&order_by=contributions&limit=5&hide_contributor_rank=false&combine_all_yearly_contributions=true)
 
 ---
 
